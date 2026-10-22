@@ -1,0 +1,12 @@
+Ansong
+I
+12
+Adams
+I
+10
+Paul
+O
+12
+Sammy
+O
+16
