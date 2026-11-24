@@ -1,0 +1,20 @@
+Ruth
+0.342
+Williams
+0.344
+Gehrig
+0.340
+Cobb
+0.366
+Aaron
+0.305
+Mays
+0.302
+Mantle
+0.298
+Jeter
+0.310
+ Trout
+0.299
+Ohtani
+0.282
